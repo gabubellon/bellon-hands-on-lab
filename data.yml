@@ -11,18 +11,18 @@ jobs:
 locations:
   SRC:
     mappingDefinitions:
-      "6":
+      "8":
         database: SNOWFLAKE_SAMPLE_DATA
         schema: TPCH_SF1
-      "7":
+      "9":
         database: SNOWFLAKE_SAMPLE_DATA
         schema: TPCH_SF1
   WORK:
     mappingDefinitions:
-      "6":
+      "8":
         database: BELLON
         schema: WORKTEST
-      "7":
+      "9":
         database: BELLON
         schema: WORKPROD
 macros: {}
